@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.6.1" />
+    <option name="version" value="2.7.0" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
@@ -15,5 +15,6 @@
     <option name="monochromeIcons" value="true" />
     <option name="userId" value="af97821:16403577d09:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="isHighContrast" value="true" />
   </component>
 </application>
