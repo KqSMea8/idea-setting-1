@@ -1,11 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
     <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="16e047ad:16651676176:-8000" />
-    <option name="version" value="3.1.0" />
+    <option name="version" value="3.2.0" />
   </component>
 </application>
