@@ -3,6 +3,7 @@
     <blacklists>
       <blacklist language="Java">
         <added pattern="org.springframework.scheduling.support.CronSequenceGenerator.CronSequenceGenerator(expression,timeZone)" />
+        <added pattern="com.immomo.moaservice.impl.live.scheduling.test.Super.Super(number)" />
       </blacklist>
     </blacklists>
   </component>

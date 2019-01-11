@@ -1,19 +1,17 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="ONE_DARK" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="highlightColorEnabled" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="isBoldTabs" value="true" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="tabsHeight" value="30" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="monochromeIcons" value="true" />
-    <option name="userId" value="af97821:16403577d09:-7fff" />
-    <option name="allowDataCollection" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="userId" value="16e047ad:16651676176:-8000" />
+    <option name="version" value="3.3.0" />
   </component>
 </application>
