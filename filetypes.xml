@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="yml" type="PLAIN_TEXT" />
+      <mapping ext="yaml" type="PLAIN_TEXT" />
       <mapping ext="ftl" type="XHTML" />
     </extensionMap>
   </component>
