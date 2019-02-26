@@ -10,5 +10,13 @@
         </Item>
       </Statistic>
     </option>
+    <option name="suppressed">
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>GotoImplementation</IdeaActionID>
+          <Description>Implementation(s)</Description>
+        </Item>
+      </Statistic>
+    </option>
   </component>
 </application>
