@@ -33,6 +33,14 @@
           <Description>Implementation(s)</Description>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Test.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Test.main()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
